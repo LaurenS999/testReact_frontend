@@ -11,6 +11,7 @@ Aplikasi ini dibangun dengan arsitektur modern yang memisahkan antara Frontend d
 didalam aplikasi ini terdapat beberapa fitur yang dapat digunakan :
 
 ### Membuat catatan
+<img src="./assets/logo512.png" alt="Screenshot Aplikasi" width="500">
 
 ### Mengedit catatan
 
